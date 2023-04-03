@@ -1,0 +1,24 @@
+{
+	"Commands": [
+		{
+			"ItemName": "快捷翻译",
+			"ItemID": "eze-trans",
+			"ItemCommand": "/home/ericwyn/chaos/go/EzeTranslate/EzeTranslate -x"
+		},
+		{
+			"ItemName": "OCR",
+			"ItemID": "eze-trans-ocr",
+			"ItemCommand": "/home/ericwyn/chaos/go/EzeTranslate/EzeTranslate -ocr"
+		},
+		{
+			"ItemName": "智能格式化",
+			"ItemID": "eze-format",
+			"ItemCommand": "/home/ericwyn/dev/go/EzeFormat/EzeFormat"
+		},
+		{
+			"ItemName": "条码扫描",
+			"ItemID": "bar-scan",
+			"ItemCommand": "/usr/bin/scann"
+		}
+	]
+}
